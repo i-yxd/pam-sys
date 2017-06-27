@@ -1,0 +1,9 @@
+[package]
+name = "pam-sys"
+version = "0.1.0"
+authors = ["YANG Xudong <i@yxd.io>"]
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.26.2"
